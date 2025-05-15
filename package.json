@@ -9,6 +9,6 @@
   "author": "Nebojsa Nedovic",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.6.2"
+    "cypress": "^14.3.3"
   }
 }
